@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B27757-B744-48F8-9545-24D6C0AD511F}|RestAPI\\RestAPI.csproj|c:\\users\\umut.gur\\onedrive - logo\\desktop\\logo.log-in.summer.project2\\logo.miniprofiler_api_project\\logo.log-in.summer.project2\\restapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B27757-B744-48F8-9545-24D6C0AD511F}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960429C-266F-41B9-9AF4-9921139EED7F}|BusinessAPI\\BusinessAPI.csproj|c:\\users\\umut.gur\\onedrive - logo\\desktop\\logo.log-in.summer.project2\\logo.miniprofiler_api_project\\logo.log-in.summer.project2\\businessapi\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E960429C-266F-41B9-9AF4-9921139EED7F}|BusinessAPI\\BusinessAPI.csproj|solutionrelative:businessapi\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CDE7B9-8648-4DF6-8484-9CEC623DA3E6}|DatabaseAPI\\DatabaseAPI.csproj|c:\\users\\umut.gur\\onedrive - logo\\desktop\\logo.log-in.summer.project2\\logo.miniprofiler_api_project\\logo.log-in.summer.project2\\databaseapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CDE7B9-8648-4DF6-8484-9CEC623DA3E6}|DatabaseAPI\\DatabaseAPI.csproj|solutionrelative:databaseapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CDE7B9-8648-4DF6-8484-9CEC623DA3E6}|DatabaseAPI\\DatabaseAPI.csproj|c:\\users\\umut.gur\\onedrive - logo\\desktop\\logo.log-in.summer.project2\\logo.miniprofiler_api_project\\logo.log-in.summer.project2\\databaseapi\\logoapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CDE7B9-8648-4DF6-8484-9CEC623DA3E6}|DatabaseAPI\\DatabaseAPI.csproj|solutionrelative:databaseapi\\logoapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B27757-B744-48F8-9545-24D6C0AD511F}|RestAPI\\RestAPI.csproj|c:\\users\\umut.gur\\onedrive - logo\\desktop\\logo.log-in.summer.project2\\logo.miniprofiler_api_project\\logo.log-in.summer.project2\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B27757-B744-48F8-9545-24D6C0AD511F}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\BusinessAPI\\ProductService.cs",
+              "RelativeDocumentMoniker": "BusinessAPI\\ProductService.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\BusinessAPI\\ProductService.cs",
+              "RelativeToolTip": "BusinessAPI\\ProductService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:09:39.905Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\RestAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\RestAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwD4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:08:31.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\DatabaseAPI\\Product.cs",
+              "RelativeDocumentMoniker": "DatabaseAPI\\Product.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\DatabaseAPI\\Product.cs",
+              "RelativeToolTip": "DatabaseAPI\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:53:01.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogoApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\DatabaseAPI\\LogoApiDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseAPI\\LogoApiDbContext.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\DatabaseAPI\\LogoApiDbContext.cs",
+              "RelativeToolTip": "DatabaseAPI\\LogoApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:52:56.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\RestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Desktop\\Logo.Log-in.Summer.Project2\\Logo.MiniProfiler_API_Project\\Logo.Log-in.Summer.Project2\\RestAPI\\Program.cs",
+              "RelativeToolTip": "RestAPI\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:08:01.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

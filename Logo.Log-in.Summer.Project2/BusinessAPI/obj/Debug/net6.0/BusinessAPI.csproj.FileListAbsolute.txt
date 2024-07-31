@@ -1,0 +1,30 @@
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\bin\Debug\net6.0\BusinessAPI.deps.json
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\bin\Debug\net6.0\BusinessAPI.dll
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\bin\Debug\net6.0\BusinessAPI.pdb
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\bin\Debug\net6.0\DatabaseAPI.dll
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\bin\Debug\net6.0\DatabaseAPI.pdb
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\BusinessAPI.csproj.AssemblyReference.cache
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\BusinessAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\BusinessAPI.AssemblyInfoInputs.cache
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\BusinessAPI.AssemblyInfo.cs
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\BusinessAPI.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\Business.6C265A24.Up2Date
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\BusinessAPI.dll
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\refint\BusinessAPI.dll
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\BusinessAPI.pdb
+C:\Users\umut.gur\source\repos\RestAPI\BusinessAPI\obj\Debug\net6.0\ref\BusinessAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\bin\Debug\net6.0\BusinessAPI.deps.json
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\bin\Debug\net6.0\BusinessAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\bin\Debug\net6.0\BusinessAPI.pdb
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\bin\Debug\net6.0\DatabaseAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\bin\Debug\net6.0\DatabaseAPI.pdb
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\BusinessAPI.csproj.AssemblyReference.cache
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\BusinessAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\BusinessAPI.AssemblyInfoInputs.cache
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\BusinessAPI.AssemblyInfo.cs
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\BusinessAPI.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\Business.6C265A24.Up2Date
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\BusinessAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\refint\BusinessAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\BusinessAPI.pdb
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\BusinessAPI\obj\Debug\net6.0\ref\BusinessAPI.dll

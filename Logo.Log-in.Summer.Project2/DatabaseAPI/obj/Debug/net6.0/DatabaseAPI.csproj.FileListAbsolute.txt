@@ -1,0 +1,24 @@
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\bin\Debug\net6.0\DatabaseAPI.deps.json
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\bin\Debug\net6.0\DatabaseAPI.dll
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\bin\Debug\net6.0\DatabaseAPI.pdb
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.csproj.AssemblyReference.cache
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.AssemblyInfoInputs.cache
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.AssemblyInfo.cs
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.dll
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\refint\DatabaseAPI.dll
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.pdb
+C:\Users\umut.gur\source\repos\RestAPI\DatabaseAPI\obj\Debug\net6.0\ref\DatabaseAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\bin\Debug\net6.0\DatabaseAPI.deps.json
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\bin\Debug\net6.0\DatabaseAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\bin\Debug\net6.0\DatabaseAPI.pdb
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.csproj.AssemblyReference.cache
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.AssemblyInfoInputs.cache
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.AssemblyInfo.cs
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\refint\DatabaseAPI.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\DatabaseAPI.pdb
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo.Log-in.Summer.Project2\Logo.MiniProfiler_API_Project\Logo.Log-in.Summer.Project2\DatabaseAPI\obj\Debug\net6.0\ref\DatabaseAPI.dll
